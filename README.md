@@ -36,5 +36,16 @@ DNS Server - 8.8.8.8
 # Disclaimer
 All activities are performed in my own virtual lab for educational purposes. Testing will be limited to systems I own or have explicit permission to assess.
 
-## Lab Setup
+## Tools & Resources
+7-zip 
+
+VirtualBox
+
+Kali Linux
+
+# Project Information
+
+Program Name: Cybersecurity Internship at Networkwalks | Week 1
+
+Repository: Github
 
